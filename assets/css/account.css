@@ -1,0 +1,33 @@
+:root {
+    --color-light: #F3F4F5;
+    --color-pink: #dc143c;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box-form2 {
+    width: 100%;
+    max-width: 400px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+
+.btn-primary {
+    background-color: #007bff;;
+    width: 100%;
+    margin-top: 10px;
+}
+
